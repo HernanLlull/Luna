@@ -39,13 +39,12 @@ h1{
 }
 .button{
     padding: 1em;
-    margin-bottom:3em;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 800;
     font-size: 1em;
     color: white;
-    background-color: rgb(255, 87, 70);
+    background-color: rgb(255, 87, 80);
   }
   .button:hover{
     color: #9b0e0e;
